@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duong Nguyen Phu Quy (Richard Duong)</h1>
-<h3 align="center">A passionate software developer from Vietnam.</h3>
-<h3 align="center">Currently working for Avepoint.</h3>
+<h3 align="center">A passionate software developer from Vietnam <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam Flag" width="30">
+</h3> 
+<h3 align="center">Currently working for Avepoint 💥</h3>
 
 - 📫 How to reach me **richardduong4work@gmail.com**
 
