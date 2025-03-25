@@ -3,11 +3,11 @@
 </h3> 
 <h3 align="center">Currently working for Avepoint 💥</h3>
 
-- 📫 How to reach me **richardduong4work@gmail.com**
+📫 How to reach me **richardduong4work@gmail.com**
 
-### Connect with me:
+## Connect with me:
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/duong-nguyen-phu-quy/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -21,9 +21,9 @@
   </a>
 </p>
 
-### Languages and Tools:
+## Languages and Tools:
 
-<p align="left">
+<p align="center">
   <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
   </a>
@@ -74,8 +74,9 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quydnp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Github Stats:
+  
+## Github Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quydnp&show_icons=true&theme=dark)
+
 
 
