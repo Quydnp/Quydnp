@@ -72,3 +72,10 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quydnp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Github Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quydnp&show_icons=true&theme=dark)
+
+
