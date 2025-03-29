@@ -5,6 +5,8 @@
 
 📫 How to reach me **richardduong4work@gmail.com**
 
+🖥️ My portfolio website: [Richard's Porfolio](https://richard-duong.vercel.app/)
+
 ## Connect with me:
 
 <p align="center">
@@ -77,6 +79,3 @@
   
 ## Github Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quydnp&show_icons=true&theme=dark)
-
-
-
